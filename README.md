@@ -1,1 +1,1 @@
-# agrifood could be live
+# agrifood dev is now hugo live
