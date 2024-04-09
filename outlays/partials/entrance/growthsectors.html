@@ -1,0 +1,32 @@
+{{$imagedomain := string .Site.Params.imagedomain }}
+<section class="section_growth-sector-previews partial">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p class="pre-title">{{ .Params.entrancegrowthsectors.preheading}}</p>
+                <h2 class="h2-large text-dark-blue mt-0 mb-3">{{ .Params.entrancegrowthsectors.heading }}</h2>
+                <p>{{ .Params.entrancegrowthsectors.subheading }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <!-- START Growth saectors-->
+            {{ range .Params.entrancegrowthsectors.sectors  }}
+              <div class="col-12 col-lg-4 card-wrapper position-relative">
+                  <div class="card shadow">
+                      <div class="card-header">
+                          <img loading="lazy" src="{{$imagedomain}}w_416,h_250,c_fit/{{ .image }}" alt="a photograph representing the {{ .sectorname }} sector.">
+                      </div>
+                      <div class="card-body">
+                          <h3><a class="full-card-click arrow-link {{ .colour }}" href="{{ .destination }}">{{ .sectorname }}</a></h3>
+                          <p>{{ .text }}</p>
+                      </div>
+                      <div class="card-footer d-flex justify-content-end">
+                          <i xxxclass="fa-sharp fa-regular fa-arrow-right {{ .colour }}"><svg width="28.183" height="24" class="{{ .colour }}" version="1.1" viewBox="0 0 1.1273 .96" xmlns="http://www.w3.org/2000/svg"><path d="m0 0.55219 0.80328 4.8e-5 -0.35798 0.30557 0.11953 0.10219 0.56247-0.48014-0.56202-0.47986-0.11965 0.10219 0.35798 0.30557h-0.80351z" stroke-width=".05195"></path></svg></i>
+                      </div>
+                  </div>
+              </div>
+            {{ end }}
+            <!-- END Growth Sectors-->
+        </div>
+    </div>
+</section>
