@@ -10,3 +10,5 @@ title = 'Invest in UK Agrifood, Invest in Lincolnshire. The Agrifood sector in L
     path = "github.com/crescolincs/lincs-theme"
 
 #Update hugo modules (in our case the theme)$> hugo mod get -u
+
+#dev site https://dev.agrifood.pages.dev
