@@ -139,12 +139,12 @@ support:
 articles:
   display: true
   heading: Articles for Agrifood in Lincolnshire
-agrifoodCTA:
+sectorCTA:
   display: true
-  bgcolor: #126160
-  headingcolor: #aacf8b
-  buttoncolor: #009e7f
-  buttonhover: #aacf8b
+  bgcolor: dark
+  headingcolor: light
+  buttoncolor: '#009e7f'
+  buttonhover: '#aacf8b'
   image: agrifood-brochure.png
   heading: Get the Data on Lincolnshire as an Agrifood Business Location
   lead: >-
@@ -158,6 +158,8 @@ agrifoodCTA:
     - highlight: UK and global market access
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
+  contentscolour: 'text-white' 
+  footerimg: green-half-grad.png 
 ---
 
 
