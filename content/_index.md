@@ -4,8 +4,8 @@ socialImage: 'agrifood-header.png'
 sector: agrifood
 seoDescription: >-
               Lincolnshire is at the heart of the UK’s agrifood sector, enabling businesses to achieve step-change improvements in productivity, sustainability and performance. For agrifood companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation, start-up and innovation.
-gabbledegookprefooterimage: green-half-grad.png             
-
+ctaarrowclrdark: '#009e7f'             
+ctaarrowclrlight: '#aacf8b' 
 hero:
   display: true
   heading: "Invest in Lincolnshire's Agrifood Sector:  Key Benefits and Opportunities"
