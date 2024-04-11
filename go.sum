@@ -92,3 +92,9 @@ github.com/crescolincs/lincs-theme v0.0.0-20240411093009-a63a15d4e142 h1:sYvL8/k
 github.com/crescolincs/lincs-theme v0.0.0-20240411093009-a63a15d4e142/go.mod h1:ni1ll4vPX/ckofk6OO22SrUB+Vgms2jSZSE5gRuN+UY=
 github.com/crescolincs/lincs-theme v0.0.0-20240411115408-c0260701ef0c h1:b+9LP14cHd4GSzGvEjzdS9PH5wfwtKdtHPI4qcImxJE=
 github.com/crescolincs/lincs-theme v0.0.0-20240411115408-c0260701ef0c/go.mod h1:ni1ll4vPX/ckofk6OO22SrUB+Vgms2jSZSE5gRuN+UY=
+github.com/crescolincs/lincs-theme v0.0.0-20240411121119-037363e815db h1:5KtRlA3rHNNci6ZDpwFdU2PNDhkctU9K+JnbxNBSqjc=
+github.com/crescolincs/lincs-theme v0.0.0-20240411121119-037363e815db/go.mod h1:ni1ll4vPX/ckofk6OO22SrUB+Vgms2jSZSE5gRuN+UY=
+github.com/crescolincs/lincs-theme v0.0.0-20240411121527-ef81e541ceee h1:m3kCtH7DPvQWxbf3WTtx3BegHfBa8cgbiRs4ZoDbRag=
+github.com/crescolincs/lincs-theme v0.0.0-20240411121527-ef81e541ceee/go.mod h1:ni1ll4vPX/ckofk6OO22SrUB+Vgms2jSZSE5gRuN+UY=
+github.com/crescolincs/lincs-theme v0.0.0-20240411121750-66ddf2b65d3b h1:Tgqjo0JJwYJUtLsKZaehxn8OXDVkG/uQ0/hDK2ZzxJw=
+github.com/crescolincs/lincs-theme v0.0.0-20240411121750-66ddf2b65d3b/go.mod h1:ni1ll4vPX/ckofk6OO22SrUB+Vgms2jSZSE5gRuN+UY=
