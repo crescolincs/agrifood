@@ -23,12 +23,9 @@ investmentopportunity:
    - icon: 'business.svg'
      title: 'Agrifood Clusters'
      description: 'Advanced agrifood industry clusters including agriculture, food and seafood manufacturing, advanced agricultural and food technologies, and food logistics'
-   - icon: opportunity-size.svg
-     title: A Growing Opportunity
-     description: 11% of England’s food production and 25% of grade 1 arable land 
    - icon: 'market.svg'
      title: 'Market Opportunity'
-     description: 'Direct access to the UK’s growing and transforming agrifood market'      
+     description: 'With 11% of England’s food production, 25% of grade 1 arable land and direct access to the UK’s growing and transforming agrifood market'      
    - icon: 'research.svg'
      title: 'Research & Innovation'
      description: >-
