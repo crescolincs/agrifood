@@ -89,7 +89,7 @@ offerfeatures:
   display: true
   features:
    - heading: UK-leading Agrifood Industry Clusters and Supply Chains
-     image: factory.jpg
+     image: agrifood-1.jpg
      lead: Lincolnshire’s diverse agrifood business base includes major food and seafood producers and processors, leading-edge technology companies, niche product innovators and specialist service providers.
      body: >-
            Areas of excellence include:
@@ -103,7 +103,7 @@ offerfeatures:
            Benefits for investing businesses include access to a deep pool of expertise and a wide range of experienced potential supply chain partners. 
      ctatext: about Lincolnshire’s agrifood industry clusters                  
    - heading: Agrifood and Agri-tech Research, Technologies and Innovation
-     image: factory.jpg
+     image: agrifood-2.jpg
      lead: Businesses investing in Lincolnshire can access advanced, multi-disciplinary R&D and innovation across the entire food chain - to improve business productivity, sustainability and resilience, and enable new product development.
      body: >-
            - The University of Lincoln offers a unique nexus of agri-tech, advanced engineering and digital tech competencies, with dedicated research centres applying Industry 4.0 themes and technologies including artificial intelligence (AI), big data analytics, robotics / agri-robotics, sensors, automation and digitalisation to key industry challenges.
@@ -112,7 +112,7 @@ offerfeatures:
  
      ctatext: about agrifood and agri-tech research and innovation in Lincolnshire 
    - heading: Agrifood Sector Workforce, Education and Skills
-     image: factory.jpg
+     image: agrifood-3.jpg
      lead: For investing agrifood businesses, Lincolnshire provides access to a large, skilled and cost-competitive agrifood and related-sector workforce that is outstanding in the UK.
      body: >-
            - In food production, food and seafood manufacturing, and a range of other agrifood and related classifications, Lincolnshire provides investing businesses with access to labour forces that are outstanding in the UK in terms of size, concentration and specialisation.
@@ -123,7 +123,7 @@ offerfeatures:
            Benefits for investing companies include easier recruitment, faster project delivery and improved productivity. 
      ctatext: about Lincolnshire’s agrifood industry clusters 
    - heading: Sites and Properties for Agrifood Businesses in Lincolnshire 
-     image: factory.jpg
+     image: agrifood-4.jpg
      lead: Lincolnshire offers a range of high-quality, cost-effective sites and properties meeting the specific requirements of businesses in agrifood sectors including food production, food manufacturing, food logistics and food R&D.
      body: >-
            - Lincolnshire’s three Food Enterprise Zones (FEZs) offer premium accommodation, collaborative environments, accelerated planning, investment incentives, and excellent transport and data connectivity for food industry occupants including research organisations, start-ups, manufacturers and distributors.
@@ -132,7 +132,7 @@ offerfeatures:
  
      ctatext: about sites and properties for agrifood businesses in Lincolnshire 
    - heading: Fast UK & Global Market Access for Agrifood Businesses 
-     image: factory.jpg
+     image: agrifood-5.jpg
      lead: Greater Lincolnshire provides agrifood businesses with fast, multimodal access to distribution hubs and consumer markets in the UK and worldwide.
      body: >-
            Lincolnshire’s strategic location in the East Midlands region of England provides businesses with fast access to:
@@ -152,31 +152,38 @@ companylogos:
   subheading: Businesses established in Lincolnshire’s agrifood sector include
   scrollbarclr: '#aacf8b'
   companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
-
+   - name: investor company logo
+     logo: agrifood-logo-1.png
+   - name: investor company logo
+     logo: agrifood-logo-2.png
+   - name: investor company logo
+     logo: agrifood-logo-3.png
+   - name: investor company logo
+     logo: agrifood-logo-4.png
+   - name: investor company logo
+     logo: agrifood-logo-5.png
+   - name: investor company logo
+     logo: agrifood-logo-6.png
+   - name: investor company logo
+     logo: agrifood-logo-7.png
+   - name: investor company logo
+     logo: agrifood-logo-8.png
+   - name: investor company logo
+     logo: agrifood-logo-9.png
+   - name: investor company logo
+     logo: agrifood-logo-10.png
+   - name: investor company logo
+     logo: agrifood-logo-11.png
+   - name: investor company logo
+     logo: agrifood-logo-12.png
+   - name: investor company logo
+     logo: agrifood-logo-13.png
+   - name: investor company logo
+     logo: agrifood-logo-14.png
+   - name: investor company logo
+     logo: agrifood-logo-15.png
+   - name: investor company logo
+     logo: agrifood-logo-16.png                                                                          
 support:
   display: true
   heading: Support for Your Agrifood Sector Business Investment

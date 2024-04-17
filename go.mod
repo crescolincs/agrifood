@@ -2,4 +2,4 @@ module github.com/crescolincs/agrifood
 
 go 1.21.1
 
-require github.com/crescolincs/lincs-theme v0.0.0-20240416170133-1bf20f11d919 // indirect
+require github.com/crescolincs/lincs-theme v0.0.0-20240417095125-01512f2e93c0 // indirect
