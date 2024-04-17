@@ -3,16 +3,14 @@ title: 'Invest in the Agrifood sector.Invest in Lincolnshire'
 socialImage: 'agrifood-header.png'
 sector: agrifood
 seoDescription: >-
-              Lincolnshire is at the heart of the UK’s agrifood sector, enabling businesses to achieve step-change improvements in productivity, sustainability and performance. For agrifood companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation, start-up and innovation.
+              Lincolnshire is at the heart of the UK’s agrifood sector, enabling investing companies to join industry-leading clusters right across the food value chain, and to access the expertise and technologies required to transform business performance, productivity and sustainability.
 ctaarrowclrdark: '#126160'             
 ctaarrowclrlight: '#aacf8b' 
 hero:
   display: true
   heading: "Invest in Lincolnshire's Agrifood Sector:  Key Benefits and Opportunities"
   blurb: >-
-        Lincolnshire is at the heart of the UK’s £254 billion agrifood sector, with industry-leading clusters right across the food value chain.
-
-        For agrifood companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation and innovation, with direct access to the expertise and technologies required to transform productivity and sustainability.
+        Lincolnshire is at the heart of the UK’s agrifood sector, enabling investing companies to join industry-leading clusters right across the food value chain, and to access the expertise and technologies required to transform business performance, productivity and sustainability.
   heroImg: 'agrifood-header.png'
 
 investmentopportunity:
@@ -22,17 +20,19 @@ investmentopportunity:
   offer:
    - icon: 'business.svg'
      title: 'Agrifood Clusters'
-     description: 'Advanced agrifood industry clusters including agriculture, food and seafood manufacturing, advanced agricultural and food technologies, and food logistics'
+     description: >-
+                 Major industry clusters including agriculture, food and seafood manufacturing, advanced agricultural and food technologies, and food logistics
    - icon: 'market.svg'
      title: 'Market Opportunity'
-     description: 'With 11% of England’s food production, 25% of grade 1 arable land and direct access to the UK’s growing and transforming agrifood market'      
+     description: >-
+                  Producing 11% of England’s food and enabling direct access to the UK’s growing and transforming agrifood market      
    - icon: 'research.svg'
      title: 'Research & Innovation'
      description: >-
-       Leadership in innovation and technologies addressing the industry’s key challenges: improving productivity, sustainability and supply chain resilience
+       Leadership in technologies addressing key agrifood industry challenges: improving productivity, sustainability and supply chain resilience
    - icon: 'workforce.svg'
      title: 'Specialist Workforce'
-     description: 'A large, specialised regional sector workforce'       
+     description: 'A large, specialised, regional agrifood workforce'       
    - icon: 'property.svg'
      title: 'Sites & Properties'
      description: 'Available, cost-effective sites and properties including Food Enterprise Zones'
@@ -90,17 +90,19 @@ offerfeatures:
   features:
    - heading: UK-leading Agrifood Industry Clusters and Supply Chains
      image: agrifood-1.jpg
-     lead: Lincolnshire’s diverse agrifood business base includes major food and seafood producers and processors, leading-edge technology companies, niche product innovators and specialist service providers.
+     lead: >-
+           Lincolnshire’s diverse agrifood industry clusters enable investing businesses to access a deep pool of expertise and a wide range of experienced potential supply chain partners.
      body: >-
            Areas of excellence include:
 
-           - High-productivity agri-tech and food manufacturing technologies, including robotics and automation
+           - Advanced industry clusters encompassing major food and seafood producers and manufacturers, leading-edge technology companies, niche product innovators and specialist service providers
  
+           - High-productivity agri-tech and food manufacturing technologies, including digitalisation, robotics and automation
+           
            - Value-added products, including innovative, more healthy, nutritious and environmentally aware foods
            
            - Supply chain solutions including traceability technologies and more sustainable packaging and logistics
-            
-           Benefits for investing businesses include access to a deep pool of expertise and a wide range of experienced potential supply chain partners. 
+ 
      ctatext: about Lincolnshire’s agrifood industry clusters                  
    - heading: Agrifood and Agri-tech Research, Technologies and Innovation
      image: agrifood-2.jpg
@@ -113,15 +115,16 @@ offerfeatures:
      ctatext: about agrifood and agri-tech research and innovation in Lincolnshire 
    - heading: Agrifood Sector Workforce, Education and Skills
      image: agrifood-3.jpg
-     lead: For investing agrifood businesses, Lincolnshire provides access to a large, skilled and cost-competitive agrifood and related-sector workforce that is outstanding in the UK.
+     lead: >-
+           Lincolnshire provides access to a large, skilled and cost-competitive agrifood workforce, enabling easier recruitment, faster project delivery and improved productivity for investing businesses.
      body: >-
+          Benefits for investing companies include:
+
            - In food production, food and seafood manufacturing, and a range of other agrifood and related classifications, Lincolnshire provides investing businesses with access to labour forces that are outstanding in the UK in terms of size, concentration and specialisation.
  
            - Lincolnshire’s established workforce is complemented by further and higher educational institutions focused on meeting the specialised skills and qualifications requirements of the area’s agrifood businesses.
-           
-           
-           Benefits for investing companies include easier recruitment, faster project delivery and improved productivity. 
-     ctatext: about Lincolnshire’s agrifood industry clusters 
+ 
+     ctatext: about Lincolnshire’s agrifood workforce, education and skills 
    - heading: Sites and Properties for Agrifood Businesses in Lincolnshire 
      image: agrifood-4.jpg
      lead: Lincolnshire offers a range of high-quality, cost-effective sites and properties meeting the specific requirements of businesses in agrifood sectors including food production, food manufacturing, food logistics and food R&D.
