@@ -1,9 +1,10 @@
 ---
-sector: Agrifood
+sector: agrifood
 image: agrifood-article-1.jpg
 title: The UK Agrifood Market Opportunity
 intro: >- 
         The UK presents a major, growing market opportunity for agrifood sector businesses. 
+type: article
 layout: post
 ---
 
