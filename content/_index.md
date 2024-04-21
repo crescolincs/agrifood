@@ -217,6 +217,7 @@ sectorCTA:
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
   contentscolour: 'text-white'
+  formhandler: brochurerequest
   hiddenformfields:
      - field: brochure
        value: agrifood
