@@ -48,9 +48,6 @@ marketopportunity:
   heading: "The UK Agrifood Market Opportunity"
   lead: >- 
        The UK’s agrifood sector presents a range of opportunities for business investment, growth and reshoring. 
-       
-       
-       Key drivers include:
   benefits:
    - benefit: "67.7 million UK consumers"
      feature: "spending £254 billion annually on food and drink"
