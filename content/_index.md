@@ -153,37 +153,37 @@ companylogos:
   scrollbarclr: '#aacf8b'
   companies:
    - name: investor company logo
-     logo: agrifood-logo-1.png
+     logo: agrifood-logo-1.png?1
    - name: investor company logo
-     logo: agrifood-logo-2.png
+     logo: agrifood-logo-2.png?1
    - name: investor company logo
-     logo: agrifood-logo-3.png
+     logo: agrifood-logo-3.png?1
    - name: investor company logo
-     logo: agrifood-logo-4.png
+     logo: agrifood-logo-4.png?1
    - name: investor company logo
-     logo: agrifood-logo-5.png
+     logo: agrifood-logo-5.png?1
    - name: investor company logo
-     logo: agrifood-logo-6.png
+     logo: agrifood-logo-6.png?1
    - name: investor company logo
-     logo: agrifood-logo-7.png
+     logo: agrifood-logo-7.png?1
    - name: investor company logo
-     logo: agrifood-logo-8.png
+     logo: agrifood-logo-8.png?1
    - name: investor company logo
-     logo: agrifood-logo-9.png
+     logo: agrifood-logo-9.png?1
    - name: investor company logo
-     logo: agrifood-logo-10.png
+     logo: agrifood-logo-10.png?1
    - name: investor company logo
-     logo: agrifood-logo-11.png
+     logo: agrifood-logo-11.png?1
    - name: investor company logo
-     logo: agrifood-logo-12.png
+     logo: agrifood-logo-12.png?1
    - name: investor company logo
-     logo: agrifood-logo-13.png
+     logo: agrifood-logo-13.png?1
    - name: investor company logo
-     logo: agrifood-logo-14.png
+     logo: agrifood-logo-14.png?1
    - name: investor company logo
-     logo: agrifood-logo-15.png
+     logo: agrifood-logo-15.png?1
    - name: investor company logo
-     logo: agrifood-logo-16.png                                                                          
+     logo: agrifood-logo-16.png?1                                                                          
 support:
   display: true
   heading: Support for Your Agrifood Sector Business Investment
