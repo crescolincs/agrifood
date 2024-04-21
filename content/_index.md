@@ -216,7 +216,12 @@ sectorCTA:
     - highlight: UK and global market access
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
-  contentscolour: 'text-white' 
+  contentscolour: 'text-white'
+  hiddenformfields:
+     - field: brochure
+       value: agrifood
+     - field: cc
+       value: dklongley@clarity-strategies
   footerimg: green-half-grad.png 
 ---
 
