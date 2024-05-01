@@ -1,5 +1,5 @@
 ---
-title: 'Invest in the Agrifood sector.Invest in Lincolnshire'
+title: 'Invest in the Agrifood sector. Invest in Lincolnshire'
 socialImage: 'agrifood-header.png'
 sector: agrifood
 seoDescription: >-
@@ -68,17 +68,20 @@ marketopportunity:
    - name: UK Consumers
      size: 67.7
      measure: million
+     when: By 2099
      clrscheme: light
      textcolor: sector-dark
 
    - name: UK Market Value
      size: £254
      measure: billion P.A.
+     when: By 2030
      clrscheme: mid
      textcolor: white
    - name: UK Market Growth
      size: +37%
-     measure: 2010-2019
+     measure: "throughout"
+     when: 2010-2019
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK agrifood market opportunity
@@ -133,7 +136,7 @@ offerfeatures:
      ctatext: about sites and properties for agrifood businesses in Lincolnshire 
    - heading: Fast UK & Global Market Access for Agrifood Businesses 
      image: agrifood-5.jpg
-     lead: Greater Lincolnshire provides agrifood businesses with fast, multimodal access to distribution hubs and consumer markets in the UK and worldwide.
+     lead: Lincolnshire provides agrifood businesses with fast, multimodal access to distribution hubs and consumer markets in the UK and worldwide.
      body: >-
            Lincolnshire’s strategic location in the East Midlands region of England provides businesses with fast access to:
 
@@ -159,7 +162,7 @@ companylogos:
    - name: investor company logo
      logo: agrifood-logo-3.png?1
    - name: investor company logo
-     logo: agrifood-logo-4.png?1
+     logo: agrifood-logo-4.png?2
    - name: investor company logo
      logo: agrifood-logo-5.png?1
    - name: investor company logo
