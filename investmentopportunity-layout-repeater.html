@@ -1,0 +1,78 @@
+<section class="section_investment-opportunity-block">
+  <div class="container">
+      <div class="row">
+          <div class="col-12">
+              <h2 class="h2-large text-dark-blue">{{ .Params.heading}}</h2>
+              <p>{{ .Parms.lead}}</p>
+          </div>
+      </div>
+    <div class="container">
+        <div class="row xrow-cols-sm-1 xrow-cols-md-2">
+          {{$len := len .Params.agrifoodofferitems}}    
+          {{range $index, $element := .Params.agrifoodofferitems}}
+             {{ if and (eq (add $index 1) $len ) (not (modBool $index 2)) }}
+             <div class="col-md-6 offset-md-6"> 
+             {{ else }}
+             <div class="col-md-6 {{ $lastoneclass }}">
+             {{ end }}
+
+               <div class="opp-wrapper d-flex align-items-center">
+                 <div class="icon-wrapper">
+                    <img src="{{ $element.icon }}"/>
+                 </div>
+                 <div class="text-wrapper">
+                    <h3>{{ $element.heading }}</h3>
+                    <p>{{ $element.blurb }}</p>
+                  </div>
+               </div>
+             </div>
+        </div>
+      </div>
+      </div>
+    </section>
+
+
+
+        <!-- This is the last one and if it is also the first one in a row (odd number) it needs to be offset to center. This page will help determine
+        if it is the last one. Need to add logic to check for  is it an odd one (first in row with none to follow). se this page https://discourse.gohugo.io/t/range-length-or-last-element/3803/2 
+        
+        >> get the length of frontmatter array {{$len := len .Params.agrifoodofferitems}}
+        >> Range with an index https://discourse.gohugo.io/t/range-with-an-index-counter/14750
+
+
+
+
+        {{ $element.icon }} {{ $element.heading }} {{ $element.blurb }}{{ end }}
+
+        <nav id="mainmenu">
+  {{ $currentPage := . }}
+  {{ $list := (.Site.Menus.main) }}
+  {{ $len := (len $list) }}
+  <ul>
+   All sites shall have a link to the home page except the home page 
+    {{ if not .IsHome }}
+    <li><a href="/">Home</a></li>
+  {{ end }}
+
+  {{ range $index, $element := $list }}
+    <li
+      {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+      class="active anyclass"
+      {{ else }}
+      class="anyclass"
+      {{ end }}>
+      <a
+        {{ if and (eq (add $index 1) $len ) (not (modBool $index 2)) }}
+        class="its-the-last-one-and-odd"
+        {{ else }}
+        class="not-the-last-one"
+        {{ end }}
+        href="{{ .URL | absURL }}">
+        {{ .Pre }} {{ .Name }}
+      </a>
+    </li>
+  {{ end }}
+</ul>
+</nav>
+      -->
+

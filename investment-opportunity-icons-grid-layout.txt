@@ -1,0 +1,81 @@
+<div class="row row-cols-sm-1 row-cols-md-2">
+                <div class="col">
+                    <div class="opp-wrapper d-flex align-items-center">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/business-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Agrifood Clusters</h3>
+                            <p>A UK-leading agrifood sector, with industry clusters across the food value chain</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="opp-wrapper d-flex">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/research-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Research &amp; Innovation</h3>
+                            <p>Leadership in innovation and technologies addressing the industry's key challenges: improving productivity, sustainability and supply chain resilience</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="opp-wrapper d-flex align-items-center">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/property-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Sites &amp; Properties</h3>
+                            <p>Available, cost-effective sites and properties including Food Enterprise Zones</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="opp-wrapper d-flex align-items-center">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/market-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Market Opportunity</h3>
+                            <p>Direct access to the UK’s growing and transforming agrifood market</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="opp-wrapper d-flex align-items-center">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/workforce-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Specialist Workforce</h3>
+                            <p>A large, specialised regional sector workforce</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="opp-wrapper d-flex align-items-center">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/connectivity-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Multimodal Connectivity</h3>
+                            <p>Fast, multimodal access to UK &amp; global markets</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="opp-wrapper d-flex align-items-center">
+                        <div class="icon-wrapper">
+                            <img loading="lazy" src="/images/support-icon.svg" alt="">
+                        </div>
+                        <div class="text-wrapper">
+                            <h3>Dedicated Support</h3>
+                            <p>Dedicated support for investing businesses</p>
+                        </div>
+                    </div>
+                </div>
+    
+                    
+                </div>

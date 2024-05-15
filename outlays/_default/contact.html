@@ -1,0 +1,235 @@
+{{ define "main" }}
+
+<!-- header -->
+<style>
+/* contact styles*/
+ 
+ .section_contact-form {
+     padding: 0 0 9.0625rem;
+ }
+ .section_contact-form .field-wrapper label {
+     font-family: montserrat,sans-serif;
+     font-size: 1rem;
+     font-style: normal;
+     font-weight: 700;
+     margin-bottom: .5rem;
+ }
+ .section_contact-form .field-wrapper input:not([type=submit],[type=checkbox]), .section_contact-form .field-wrapper textarea {
+     background-color: transparent;
+     border: .0625rem solid #1c1434;
+     font-family: montserrat,sans-serif;
+     font-style: normal;
+     font-weight: 500;
+     height: 3.125rem;
+     margin-bottom: 1.125rem;
+     padding: .625rem;
+     width: 100%;
+ }
+ 
+ .section_contact-form .field-wrapper textarea {
+     height: 10.625rem;
+ }
+ .section_contact-form .field-wrapper .checkbox-label input {
+     cursor: pointer;
+     height: 0;
+     opacity: 0;
+     position: absolute;
+     width: 0;
+ }
+ .section_contact-form .field-wrapper .checkbox-label a {
+     color: #1c1434;
+     font-weight: 600;
+ }
+ .section_contact-form .field-wrapper p {
+     font-size: .75rem;
+     margin-bottom: 2.625rem;
+     padding-left: 2.8125rem;
+ }
+ .btn.btn-secondary:hover, .btn.btn-submit {
+     background-color: #cf4952;
+ }
+ .btn.btn-submit:hover {
+     background-color: #1c1434;
+     color: #fff;
+ }
+ .section_contact-form .contact-details {
+     background-color: #252159;
+     padding: 3.75rem 3.25rem;
+ }
+ .section_contact-form .contact-details {
+     background-color: #252159;
+     padding: 3.75rem 3.25rem;
+ }
+ .section_contact-form .contact-details a {
+     color: #fff;
+     font-family: montserrat,sans-serif;
+     font-size: 1.125rem;
+     font-style: normal;
+     font-weight: 500;
+ }
+     .section_contact-form .contact-details hr {
+     color: #90a6ca;
+     margin: 1.875rem 0 1.25rem;
+     opacity: 1;
+ }
+
+     .section_contact-form .contact-details i {
+     color: #90a6ca;
+     font-size: 1.625rem;
+     font-style: normal;
+     padding-right:20px;
+
+ }
+ .section_contact-form .field-wrapper .checkbox-label {
+     cursor: pointer;
+     display: block;
+     font-family: montserrat,sans-serif;
+     font-style: normal;
+     font-weight: 500;
+     padding-left: 2.8125rem;
+     position: relative;
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+ }
+ .section_contact-form .field-wrapper .checkbox-label .checkmark {
+     background-color: transparent;
+     border: .0625rem solid #1c1434;
+     height: 2rem;
+     left: 0;
+     position: absolute;
+     top: 0;
+     width: 2rem;
+ }
+ .section_contact-form .contact-details p {
+     color: #fff;
+     line-height: 1.5rem;
+ }
+ .section_contact-form .field-wrapper .checkbox-label input:checked~.checkmark:after {
+     display: block;
+ }
+ .section_contact-form .field-wrapper .checkbox-label .checkmark:after {
+     border: solid #fff;
+     border-width: 0 3px 3px 0;
+     height: .875rem;
+     left: .6875rem;
+     top: .375rem;
+     -webkit-transform: rotate(45deg);
+     transform: rotate(45deg);
+     width: .5rem;
+ }
+ .section_contact-form .field-wrapper .checkbox-label .checkmark:after {
+     content: "";
+     display: none;
+     position: absolute;
+ }
+ .section_contact-form .field-wrapper .checkbox-label input:checked~.checkmark {
+     background-color: #cf4952;
+ }
+ @media (min-width: 992px){
+ .offset-lg-1 {
+     margin-left: 8.33333333%;
+ }
+ .col-lg-4 {
+     width: 33.33333333%;
+ }
+ .col-lg-3, .col-lg-4 {
+     -webkit-box-flex: 0;
+     -ms-flex: 0 0 auto;
+     flex: 0 0 auto;
+ }
+ }
+ 
+ </style>
+
+</style>
+<main id="main">
+
+    <section class="section_header-50-50">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-5 pe-lg-5 d-flex flex-column justify-content-center">
+                    <h1>Get in Touch</h1>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.</p>
+                </div>
+                <div class="col-12 col-lg-7">
+                    <div class="img-wrapper">
+                        <img src="{{ .Site.Params.imagedomain }}red-grad.png" alt="" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section_contact-form">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-7 mb-4 mb-lg-0">
+                    <form action="/processcontact" method="POST">
+                        <div class="field-wrapper">
+                            <label for="full-name">Name<span>*</span></label>
+                            <input type="text" id="full-name" name="full-name" required>
+                        </div>
+                        <div class="field-wrapper">
+                            <label for="phone-no">Phone</label>
+                            <input type="text" id="phone-no" name="phone-no">
+                        </div>
+                        <div class="field-wrapper">
+                            <label for="email-address">Email<span>*</span></label>
+                            <input type="email" id="email-address" name="email-address" required>
+                        </div>
+                        <div class="field-wrapper">
+                            <label for="message">Enquiry<span>*</span></label>
+                            <textarea id="message" name="message" required></textarea>
+                        </div>
+                        <div class="field-wrapper">
+                            <label class="checkbox-label" for="privacy-policy">I agree to the <a href="#">privacy policy</a>.
+                                <input type="checkbox" id="privacy-policy" name="privacy-policy" required>
+                                <span class="checkmark"></span>
+                            </label>
+                            <p><small>The data you submit here will only be used in relation to your enquiry. By submitting any enquires via this part of the website you are granting us permission to store and process your data as according to our privacy policy. Your information will never be sold on to any third parties.</small></p>
+                        </div>
+                        <div class="field-wrapper">
+                            <input class="btn btn-submit" type="submit" value="Send Message">
+                        </div>
+                    </form>
+                </div>
+                <div class="col-12 col-lg-4 offset-lg-1">
+                    <div class="contact-details">
+                        <div class="d-flex">
+                            <i class="fa-light fa-envelope"><svg width="26" height="26.526" fill="none" version="1.1" viewBox="0 0 .78 .61579" xmlns="http://www.w3.org/2000/svg"><path d="m0.020526 0.14368 0.32393 0.21595c0.02758 0.018388 0.063508 0.018388 0.091087 0l0.32393-0.21595m-0.65684 0.45158h0.57474c0.045346 0 0.082105-0.036758 0.082105-0.082105v-0.41053c0-0.045346-0.036758-0.082105-0.082105-0.082105h-0.57474c-0.045346 0-0.082105 0.03676-0.082105 0.082105v0.41053c0 0.045346 0.03676 0.082105 0.082105 0.082105z" stroke="#90a6ca" stroke-linecap="round" stroke-linejoin="round" stroke-width=".041053"/></svg></i>
+                            <a class="ms-4" href="mailto:">{{ .Params.email }}</a>
+                        </div>
+
+                        <hr>
+
+                        <p><span class="fw-bold">{{ .Params.organisation }}</span><br>
+                            {{ .Params.address1 }}<br>
+                            {{ .Params.address2 }}<br>
+                            {{ .Params.address3 }}<br>
+                            {{ .Params.town }}<br>
+                            {{ .Params.postcode }}
+                        </p>
+
+                        <div class="social-icons d-flex">
+                            <a class="me-4" href="#" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                            <a class="me-4" href="#" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                            <a class="me-4" href="#" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                            <a href="#" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    {{ with site.GetPage "home" }}
+    {{ partial "entrance/growthsectors.html" . }}
+    {{ end }}
+
+</main>
+
+<!-- footer -->
+
+{{ end }}

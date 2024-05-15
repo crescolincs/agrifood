@@ -1,0 +1,43 @@
+<main id="main" class="page_home">
+    {{ if .Params.hero.display }}
+      {{ partial "hero.html" . }}
+    {{ end }}
+
+    {{ if .Params.entrancesupport.display }}
+      {{ partial "entrance/support.html" . }}
+    {{ end }}
+
+    {{ if .Params.entrancegrowthsectors.display }}
+      {{ partial "entrance/growthsectors.html" . }}
+    {{ end }}
+
+    {{ if .Params.entranceothersectors.display }}
+      {{ partial "entrance/othersectors.html" . }}
+    {{ end }}
+
+    {{ if .Params.entrancelocationmap.display }}
+      {{ partial "entrance/locationmap.html" . }}
+    {{ end }}
+
+    {{ if .Params.investmentopportunity.display }}
+      {{ partial "mainsectors/investmentopportunity.html" . }}
+    {{ end }}
+
+    {{ if .Params.marketopportunity.display }}
+      {{ partial "mainsectors/marketopportunity.html" . }}
+    {{ end }}
+
+    {{ if .Params.offerfeatures.display }}
+       {{ partial "mainsectors/offerfeatures.html" . }}
+    {{ end }}
+
+    {{ if .Params.logos.display }}
+       {{ partial "mainsectors/logogrid.html" . }}
+    {{ end }}
+
+    {{ if .Params.CTA.display }}
+       {{ partial "mainsectors/cta.html" . }}
+    {{ end }}
+    {{ partial "prefooter.html" . }}
+
+</main>
