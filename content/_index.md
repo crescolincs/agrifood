@@ -68,7 +68,7 @@ marketopportunity:
    - name: UK Consumers
      size: 67.7
      measure: million
-     when: By 2099
+     when: "&nbsp;"
      clrscheme: light
      textcolor: sector-dark
 
@@ -80,8 +80,8 @@ marketopportunity:
      textcolor: white
    - name: UK Market Growth
      size: +37%
-     measure: "throughout"
-     when: 2010-2019
+     measure: 2010-2019
+     when: "&nbsp;"
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK agrifood market opportunity
@@ -162,8 +162,6 @@ companylogos:
    - name: investor company logo
      logo: agrifood-logo-3.png?1
    - name: investor company logo
-     logo: agrifood-logo-4.png?2
-   - name: investor company logo
      logo: agrifood-logo-5.png?1
    - name: investor company logo
      logo: agrifood-logo-6.png?1
@@ -175,8 +173,6 @@ companylogos:
      logo: agrifood-logo-9.png?1
    - name: investor company logo
      logo: agrifood-logo-10.png?1
-   - name: investor company logo
-     logo: agrifood-logo-11.png?1
    - name: investor company logo
      logo: agrifood-logo-12.png?1
    - name: investor company logo
