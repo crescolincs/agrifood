@@ -191,7 +191,7 @@ support:
   ctatext: about support for investing businesses from Invest Lincolnshire
   image: green-grad.png
 articles:
-  display: true
+  display: false
   heading: Articles for Agrifood in Lincolnshire
 sectorCTA:
   display: true
