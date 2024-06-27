@@ -121,17 +121,5 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Hidden Form Fields", name: "hiddenformfields", widget: "list", fields: [
                   {label: "Field Name", name: "field", widget: "hidden" },
                   {label: "Field Value", name: "value", widget: "hidden" }]},
-              {label: "Image in the footer section", name: "footerimg", widget: "hidden", default: 'green-half-grad.png'}]}                           
-
-        label: "Workforce Page"
-        name: "workforce"
-        fields:
-          - {label: Type, name: type, widget: "hidden",default: "workforce"}
-          - {label: "Title(browser tab)", name: title, widget: "string", default: "Workforce"}
-          - {label: "Description(SEO)", name: "description", widget: "text"}
-          - {label: Heading, name: heading, widget: "string"}
-          - {label: Image, name: image, widget: "image"}
-          - {label: "Social Media Image", name: "socialimage", widget: "image", required: false}
-          - {label: Intro, name: intro, widget: "text"}
-          - {label: Page Text, name: text, widget: "markdown"}
-          - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}
+              {label: "Image in the footer section", name: "footerimg", widget: "hidden", default: 'green-half-grad.png'}]}
+      
