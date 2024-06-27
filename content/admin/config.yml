@@ -2,8 +2,8 @@ backend:
   name: github
   repo: crescolincs/agrifood
   branch: main
-  base_url: https://cms.agrifood.pages.dev
-  auth_endpoint: /api/auth
+  #base_url: https://cms.agrifood.pages.dev
+  #auth_endpoint: /api/auth
 media_library:
   name: cloudinary
   config:
