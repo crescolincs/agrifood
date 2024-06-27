@@ -70,7 +70,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Subheading", name: "lead", widget: "string" },
               {label: "The Benefits", name: "benefits", widget: "list", fields: [
                   {label: "Benefit", name: "benefit", widget: "string" },
-                  {label: "Feature", name: "feature", widget: "string" }]}]}
+                  {label: "Feature", name: "feature", widget: "string", required: false }]}]}
 
           - {label: "Sector Statistics", name: "Sectorstats", widget: "object", fields: [
               {label: "Sector Statistics", name: "Sectorstats", widget: "list", fields: [
@@ -80,7 +80,7 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "When", name: "when", widget: "string"},
                 {label: "Background Colour", name: "clrscheme", widget: "hidden"},
                 {label: "Text Colour", name: "textcolor", widget: "hidden"}]},
-              {label: "Stats Call To Action Text", name: "ctatext", widget: "string"}]}
+              {label: "Stats Call To Action Text", name: "ctatext", widget: "string", required: false}]}
           
           - {label: "Features of the Offer", name: "offerfeatures", widget: "object", fields: [
               {label: "Display", name: "display",  widget: "boolean", default: true , hint: Set to false to hide the Offer Features Section.},
