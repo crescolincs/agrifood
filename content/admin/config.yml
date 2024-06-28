@@ -71,16 +71,14 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Subheading", name: "lead", widget: "string" },
               {label: "The Benefits", name: "benefits", widget: "list", fields: [
                   {label: "Benefit", name: "benefit", widget: "string" },
-                  {label: "Feature", name: "feature", widget: "string", required: false }]}]}
-
-          - {label: "Sector Statistics", name: "Sectorstats", widget: "object", fields: [
+                  {label: "Feature", name: "feature", widget: "string", required: false }]}
               {label: "Statistics", name: "stats", widget: "list", fields: [
-                {label: "Name", name: "name", widget: "string"},
-                {label: "Size", name: "size", widget: "string"},
-                {label: "Measure", name: "measure", widget: "string"},
-                {label: "When", name: "when", widget: "string"},
-                {label: "Background Colour", name: "clrscheme", widget: "hidden"},
-                {label: "Text Colour", name: "textcolor", widget: "hidden"}]},
+                {label: "Name", name: "name", widget: "string", required: false},
+                {label: "Size", name: "size", widget: "string", required: false},
+                {label: "Measure", name: "measure", widget: "string", required: false},
+                {label: "When", name: "when", widget: "string", required: false},
+                {label: "Background Colour", name: "clrscheme", widget: "hidden", required: false},
+                {label: "Text Colour", name: "textcolor", widget: "hidden", required: false}]},
               {label: "Stats Call To Action Text", name: "ctatext", widget: "string", required: false}]}
           
           - {label: "Features of the Offer", name: "offerfeatures", widget: "object", fields: [
