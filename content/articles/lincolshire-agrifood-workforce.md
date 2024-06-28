@@ -1,13 +1,14 @@
 ---
 sector: agrifood
-title: Lincolnshire's Agrifood Workforce
-image: https://res.cloudinary.com/lincs/image/upload/v1713530112/agrifood-article-2.png
+layout: post
+slug: lincolnshire-agrifood-workforce
 intro: Lincolnshire provides investing agrifood businesses with access to a
   large, skilled and cost-competitive agrifood and related sector workforce that
   is outstanding in the UK.
+title: Lincolnshire's Agrifood Workforce
+date: 2024-05-28T09:47:00.000Z
 type: article
-layout: post
-slug: lincolnshire-agrifood-workforce
+image: https://res.cloudinary.com/lincs/image/upload/v1713530112/agrifood-article-2.png
 ---
 ### Lincolnshire’s Food Production Workforce
 
