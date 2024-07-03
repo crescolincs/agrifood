@@ -4,13 +4,13 @@ backend:
   branch: main
   base_url: https://smc.agrifood.pages.dev #url for Oauth app on Github Developer settings
   auth_endpoint: /api/auth
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: lincs
-    api_key: 753698353151579
-    multiple: false
-    output_filename_only: true
+#media_library:
+#  name: cloudinary
+#  config:
+#    cloud_name: lincs
+#    api_key: 753698353151579
+#    multiple: false
+#    output_filename_only: true
 
 
 publish_mode: editorial_workflow
@@ -18,6 +18,7 @@ logo_url: https://res.cloudinary.com/lincs/image/upload/v1716044699/invest-linco
 
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
