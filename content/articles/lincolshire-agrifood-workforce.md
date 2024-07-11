@@ -7,8 +7,6 @@ type: article
 layout: post
 slug: lincolnshire-agrifood-workforce
 ---
-<style>ul{color: var(--sector-agrifood-mid); li{font-size: 0.8rem!important;}}</style>
-
 
 ### Lincolnshire’s Food Production Workforce
 
