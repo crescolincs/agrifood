@@ -1,6 +1,6 @@
 ---
 title: 'Invest in the Agrifood sector. Invest in Lincolnshire'
-socialImage: 'agrifood-header.png'
+socialImage: 'https://res.cloudinary.com/lincs/image/upload/agrifood-header.png'
 sector: agrifood
 seoDescription: >-
               Lincolnshire is at the heart of the UK’s agrifood sector, enabling investing companies to join industry-leading clusters right across the food value chain, and to access the expertise and technologies required to transform business performance, productivity and sustainability.
@@ -11,7 +11,7 @@ hero:
   heading: "Invest in Lincolnshire's Agrifood Sector:  Key Benefits and Opportunities"
   blurb: >-
         Lincolnshire is at the heart of the UK’s agrifood sector, enabling investing companies to join industry-leading clusters right across the food value chain, and to access the expertise and technologies required to transform business performance, productivity and sustainability.
-  heroImg: 'agrifood-header.png'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/agrifood-header.png'
 
 investmentopportunity:
   display: true
