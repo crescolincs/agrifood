@@ -189,7 +189,7 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: green-grad.png
+  image: https://res.cloudinary.com/lincs/image/upload/green-grad.png
 articles:
   display: false
   heading: Articles for Agrifood in Lincolnshire
