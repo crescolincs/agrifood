@@ -155,33 +155,33 @@ companylogos:
   subheading: Businesses established in Lincolnshire’s agrifood sector include
   scrollbarclr: '#aacf8b'
   companies:
-   - name: investor company logo
+   - name: 2 sisters food group company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-1.png?1
-   - name: investor company logo
+   - name: Bakkavor company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-2.png?1
-   - name: investor company logo
+   - name: Bridge Farm company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-3.png?1
-   - name: investor company logo
+   - name: FESA UK Ltd. company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-5.png?1
-   - name: investor company logo
+   - name: Garford company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-6.png?1
-   - name: investor company logo
+   - name: Grimme company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-7.png?1
-   - name: investor company logo
+   - name: Jones Food Company company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-8.png?1
-   - name: investor company logo
+   - name: Moy Park company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-9.png?1
-   - name: investor company logo
+   - name: Omni-pac Group company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-10.png?1
-   - name: investor company logo
+   - name: Princes company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-12.png?1
-   - name: investor company logo
+   - name: ProAmpac company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-13.png?1
-   - name: investor company logo
+   - name: Thorvald company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-14.png?1
-   - name: investor company logo
+   - name: Worldwide Fruit company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-15.png?1
-   - name: investor company logo
+   - name: Youngs company logo
      logo: https://res.cloudinary.com/lincs/image/upload/agrifood-logo-16.png?1                                                                          
 support:
   display: true
