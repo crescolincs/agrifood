@@ -12,7 +12,7 @@ image: https://res.cloudinary.com/lincs/image/upload/v1713530112/agrifood-articl
 ---
 ### Lincolnshire’s Food Production Workforce
 
-Reflecting Lincolnshire’s status as Great Britain’s leading county for arable farming,¹ the area is home to 16,000 agricultural workers² – more than 3 X the Great Britain average as a percentage of the total workforce.
+Reflecting Lincolnshire’s status as Great Britain’s leading county for arable farming,¹ the area is home to 16,000 agricultural workers²  – more than 3 X the Great Britain average as a percentage of the total workforce.
 
 ### Lincolnshire’s Food Manufacturing Workforce
 
