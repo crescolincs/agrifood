@@ -67,8 +67,8 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
               {label: "Subheading", name: "subheading", widget: "string", hint: A clear statement that indicates who this offer is for and how it will help them },
               {label: "The Offer", name: "offer", widget: "list", fields: [
-                  {label: "Icon", name: "icon", widget: "image" },
                   {label: "Title", name: "title", widget: "string" },
+                  {label: "Icon", name: "icon", widget: "image" },                 
                   {label: "Description", name: "description", widget: "text"}]}]}
 
           - {label: "Market Opportunity", name: "marketopportunity", widget: "object", fields: [
