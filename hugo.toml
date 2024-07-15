@@ -4,7 +4,8 @@ baseURL = 'https://agrifood.investlincolnshire.co.uk/'
 
 [params]
   contactdomain = 'https://investlincolnshire.co.uk/'
-  imagedomain = 'https://res.cloudinary.com/lincs/image/upload/q_auto,f_auto/'
+  image_q_f = 'q_auto,f_auto/'
+  imagedomain = 'https://res.cloudinary.com/lincs/image/upload/'
 
 [markup]
   [markup.goldmark.renderer]
