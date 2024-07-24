@@ -1,11 +1,12 @@
 ---
 sector: agrifood
-image: https://res.cloudinary.com/lincs/image/upload/v1713530113/agrifood-article-1.png
 title: The UK Agrifood Market Opportunity
-intro: >- 
-        The UK presents a major, growing market opportunity for agrifood sector businesses. 
+image: https://res.cloudinary.com/lincs/image/upload/v1713530113/agrifood-article-1.jpg
+intro: "The UK presents a major, growing market opportunity for agrifood sector
+  businesses. "
 type: article
 layout: post
+date: 2024-07-24T16:14:00.000Z
 ---
 
 ### A Large, Expanding Market For Agrifood Products
