@@ -6,7 +6,7 @@ intro: "The UK presents a major, growing market opportunity for agrifood sector
   businesses. "
 type: article
 layout: post
-date: 2024-07-24T16:25:00.000Z
+date: 2024-07-23T17:25:00.000Z
 ---
 
 ### A Large, Expanding Market For Agrifood Products
