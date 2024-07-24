@@ -8,7 +8,7 @@ intro: Lincolnshire provides investing agrifood businesses with access to a
 title: Lincolnshire's Agrifood Workforce
 date: 2024-07-11T14:21:52.484Z
 type: article
-image: https://res.cloudinary.com/lincs/image/upload/v1713530112/agrifood-article-2.png
+image: https://res.cloudinary.com/lincs/image/upload/v1713530112/agrifood-article-2.webp
 ---
 ### Lincolnshire’s Food Production Workforce
 
