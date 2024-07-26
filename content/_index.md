@@ -244,6 +244,6 @@ sectorCTA:
     - highlight: Location & sector data sets
     - highlight: Support for investing businesses
 articles:
-  display: false
+  display: true
   heading: Articles for Agrifood in Lincolnshire
 ---
