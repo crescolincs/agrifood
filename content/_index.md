@@ -224,7 +224,7 @@ sectorCTA:
     - field: page
       value: agrifood
     - field: cc
-      value: dklongley@clarity-strategies
+      value: investment@lincolnshire.gov.uk
   footerimg: https://res.cloudinary.com/lincs/image/upload/green-half-grad.png
   buttonhover: "#aacf8b"
   buttoncolor: "#009e7f"
