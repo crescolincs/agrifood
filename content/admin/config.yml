@@ -11,7 +11,7 @@ media_library:
     cloud_name: lincs
     api_key: 753698353151579
     multiple: false
-    output_filename_only: true
+    output_filename_only: false
 
 
 publish_mode: editorial_workflow
