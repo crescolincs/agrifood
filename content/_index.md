@@ -11,7 +11,7 @@ ctaarrowclrlight: "#aacf8b"
 hero:
   display: true
   heading: "Invest in Lincolnshire's Agrifood Sector:  Key Benefits and Opportunities"
-  blurb: Lincolnshire is at the heart of the UK’s agrifood sector, enabling
+  blurb: Lincolnshire is at the heart of the UK’s agrifod sector, enabling
     investing companies to join industry-leading clusters right across the food
     value chain, and to access the expertise and technologies required to
     transform business performance, productivity and sustainability.
