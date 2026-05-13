@@ -18,7 +18,7 @@ hero:
   heroImg: https://res.cloudinary.com/lincs/image/upload/agrifood-header.png
 investmentopportunity:
   display: true
-  heading: The Lincolnshire Agrifood Investment Opportunity
+  heading: The Greater Lincolnshire Agrifood Investment Opportunity
   subheading: "For investing agrifood businesses, Lincolnshire offers:"
   offer:
     - icon: https://res.cloudinary.com/lincs/image/upload/business.svg
