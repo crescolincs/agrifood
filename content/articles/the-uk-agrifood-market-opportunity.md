@@ -1,5 +1,6 @@
 ---
 sector: agrifood
+slug: lincolnshire-agrifood-market-opportunity
 image: https://res.cloudinary.com/lincs/image/upload/v1713530113/agrifood-article-1.png
 title: The UK Agrifood Market Opportunity
 intro: >- 
