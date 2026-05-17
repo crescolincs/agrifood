@@ -1,15 +1,15 @@
 ---
 sector: agrifood
-slug: lincolnshire-agrifood-market-opportunity
-image: https://res.cloudinary.com/lincs/image/upload/v1713530113/agrifood-article-1.png
-title: The UK Agrifood Market Opportunity
-intro: >- 
-        The UK presents a major, growing market opportunity for agrifood sector businesses. 
-type: article
 layout: post
+slug: lincolnshire-agrifood-market-opportunity
+title: The UK Agrifood Market Opportunity
+date: 2025-05-17T16:19:00.000+01:00
+intro: "The UK presents a major, growing market opportunity for agrifood sector
+  businesses. "
+type: article
+image: https://res.cloudinary.com/lincs/image/upload/v1713530113/agrifood-article-1.png
 ---
-
-### A Large, Expanding Market For Agrifood Products
+### A Large and Expanding Market For Agrifood Products
 
 The UK’s 67.7 million consumers¹ spend £254 billion annually on food and drink, and increased their expenditure by 37% in the decade to 2019. The market shows strong growth in added-value premium and niche products including vegan, organic, more nutritious and ‘free-from’ foods.² At present, the UK produces 61% of the food it consumes, while the EU supplies 79% of imported food and drink.³
 
