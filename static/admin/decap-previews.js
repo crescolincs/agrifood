@@ -55,6 +55,12 @@
       )
     );
   }
+
+  var companylogoStyles = [
+      '#ezpzwrap {border: 1px solid #ccc; overflow-x: scroll; max-width: 1310px; border: none; margin: 0 auto; padding-bottom: 3rem}',
+      '#ezpzcontent {display: grid; max-width: 100%; grid-auto-flow: column; grid-auto-columns: 145px; grid-gap: 1.5rem; align-items: center}',
+      '#ezpzcontent img{ max-width: 145px;}'
+    ].join('\n');
  
   // ── Section renderers ──────────────────────────────────────────────────────
  
@@ -336,6 +342,7 @@
       var sector   = params.get('sector') || '';
  
       return h('main', { id: 'main', className: 'page_home sector_' + sector },
+        h('style', {}, companylogoStyles),
         renderHero(params, getAsset),
         renderInvestmentOpportunity(params, getAsset),
         renderMarketOpportunity(params),
