@@ -43,7 +43,14 @@ jobs:
             const main = async () => {
               const [owner, repo] = "${{ github.repository }}".split("/");
               const ref = "${{ github.event.check_run.check_suite.head_sha }}";
+                // Add this:
+              console.log("Triggered by check:", "${{ github.event.check_run.app.slug }}");
+              console.log("Ref:", ref);
+
               const check = await getCloudflareCheckForRef(owner, repo, ref);
+               // Add this:
+               console.log("Found Cloudflare check:", JSON.stringify(check?.output?.summary?.substring(0, 500)));
+  
               const previewUrl = getPreviewUrlForCheck(check);
 
               if (!previewUrl) {
