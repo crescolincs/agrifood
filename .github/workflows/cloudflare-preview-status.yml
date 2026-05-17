@@ -12,8 +12,6 @@ jobs:
       statuses: write
     steps:
       - uses: actions/github-script@v9
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           script: |
             const getPreviewUrlForCheck = (check) => {
