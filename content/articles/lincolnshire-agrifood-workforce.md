@@ -2,7 +2,7 @@
 sector: agrifood
 layout: post
 slug: lincolnshire-agrifood-workforce
-title: Lincolnshire's Agrifood Workforce
+title: Lincolnshire's Skilled Agrifood Workforce
 date: 2025-05-16T09:17:00.000Z
 intro: Lincolnshire provides investing agrifood businesses with access to a
   large, skilled and cost-competitive agrifood and related sector workforce that
